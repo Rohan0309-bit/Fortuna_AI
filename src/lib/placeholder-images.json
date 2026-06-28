@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-dashboard",
+      "description": "Premium dark mode SaaS dashboard interface",
+      "imageUrl": "https://picsum.photos/seed/fortuna-hero/1200/800",
+      "imageHint": "saas dashboard"
+    },
+    {
+      "id": "chat-interface",
+      "description": "Minimalist AI chat interface with markdown support",
+      "imageUrl": "https://picsum.photos/seed/fortuna-chat/600/400",
+      "imageHint": "ai chat"
+    }
+  ]
+}

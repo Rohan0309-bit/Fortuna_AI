@@ -1,0 +1,22 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "A professional team working together on a modern app interface",
+      "imageUrl": "https://picsum.photos/seed/app-hero/1200/800",
+      "imageHint": "team collaboration"
+    },
+    {
+      "id": "feature-1",
+      "description": "Abstract technology representation",
+      "imageUrl": "https://picsum.photos/seed/tech-1/600/400",
+      "imageHint": "technology abstract"
+    },
+    {
+      "id": "feature-2",
+      "description": "Modern workspace design",
+      "imageUrl": "https://picsum.photos/seed/space-1/600/400",
+      "imageHint": "modern office"
+    }
+  ]
+}
